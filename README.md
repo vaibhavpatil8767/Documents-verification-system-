@@ -37,7 +37,7 @@ Copy code
 1️⃣ Download or Clone Project
 Copy code
 Bash
-git clone https://github.com/your-username/document-verification-system.git
+git clone https://github.com/your-vaibhavpatil8767/document-verification-system.git
 2️⃣ Open in Browser
 Open index.html directly
 OR
